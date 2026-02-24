@@ -6,7 +6,7 @@
 
 ## Kelas: Sistem Informasi B 2024
 
-# Pemrograman Aplikasi Bergerak - Mini E-Commerce Shopping Cart Enhancement
+# Mini E-Commerce Shopping Cart Enhancement
 
 Shopping Cart Enhancement adalah aplikasi simulasi belanja online sederhana yang dibuat menggunakan Flutter di VSCode. Aplikasi ini memiliki fitur utama seperti pengelolaan keranjang, pencarian produk, filter kategori, checkout dan invoice serta penggunaan Provider untuk mengatur state agar UI dapat terupdate secara otomatis.
 
