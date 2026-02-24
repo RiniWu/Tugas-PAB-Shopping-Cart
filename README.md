@@ -1,10 +1,10 @@
 # Tugas-PAB-Shopping-Cart
 
-Nama: Rini Wulandari
+## Nama: Rini Wulandari
 
-NIM: 2409116048
+## NIM: 2409116048
 
-Kelas: Sistem Informasi B 2024
+## Kelas: Sistem Informasi B 2024
 
 # Pemrograman Aplikasi Bergerak - Mini E-Commerce Shopping Cart Enhancement
 
