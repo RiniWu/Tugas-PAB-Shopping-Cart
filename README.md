@@ -11,11 +11,12 @@ Kelas: Sistem Informasi B 2024
 Shopping Cart Enhancement adalah aplikasi simulasi belanja online sederhana yang dibuat menggunakan Flutter di VSCode. Aplikasi ini memiliki fitur utama seperti pengelolaan keranjang, pencarian produk, filter kategori, checkout dan invoice serta penggunaan Provider untuk mengatur state agar UI dapat terupdate secara otomatis.
 
 ## Fitur Utama
-1. Add to cart from product list
-2. Show cart items dengan quantity
-3. Update quantity (+/-)
-4. Remove items from cart
-5. Display total price correctly
+1. Menambahkan produk ke keranjang
+2. Menampilkan jumlah item yang telah ditambahkan
+3. Kontrol quantity (+/-)
+4. Menghapus produk dari keranjang
+5. Menampilkan total harga pembelian
+6. 
 Serta penerapan nilai bonus
 
 ## Penjelasan Alur Program
