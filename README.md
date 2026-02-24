@@ -16,8 +16,10 @@ Shopping Cart Enhancement adalah aplikasi simulasi belanja online sederhana yang
 3. Kontrol quantity (+/-)
 4. Menghapus produk dari keranjang
 5. Menampilkan total harga pembelian
-6. 
-Serta penerapan nilai bonus
+6. Fitur search berdasarkan nama produk
+7. Penerapan filter kategori
+8. Halaman Checkout + Invoice
+
 
 ## Penjelasan Alur Program
 ### 1. Halaman Utama
